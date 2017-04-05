@@ -1,5 +1,6 @@
 # Project 2 - Modern Apartment
-* Google VR Version: gvr-unity-sdk-1.0.3 *
+
+**Google VR Version: gvr-unity-sdk-1.0.3**
 
 ## Project Challenges
 
