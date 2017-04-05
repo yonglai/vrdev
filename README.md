@@ -1,5 +1,4 @@
 # VR Nanodegree
----
 
 I developed the projects in this repo as part of Udacity's VR Nanodegree.
 
@@ -13,7 +12,7 @@ Project 2 covers game objects, transforms, materials and textures, lights, anima
 TBD
 
 
-#Installation
+# Installation
 
 * Download Google's GVR SDK and import it to your Unity project.
 
