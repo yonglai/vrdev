@@ -1,6 +1,4 @@
-# VR Nanodegree Project 1
-### Muriel Gonzalez
-### 03/09/2017
+# Intro to VR
 
 ## Things I liked
 
@@ -9,5 +7,6 @@
 ## Things That Challenged Me
 
 - XCode's quirks with the provisioning profiles. I need to learn a bit more about Xcode and how the different build settings work.
+
 - I am a Unity novice, so I am still getting used to moving around in the scenes, and trying to find a flow that suits me.
 
