@@ -1,7 +1,5 @@
-## Project Name: Project 2 - Modern Apartment
-## Developer: Muriel Gonzalez
-## Date: 4/3/2017
-## Google VR Version: gvr-unity-sdk-1.0.3
+# Project Name: Project 2 - Modern Apartment
+* Google VR Version: gvr-unity-sdk-1.0.3 *
 
 ## Project Challenges
 
