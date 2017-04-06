@@ -20,7 +20,7 @@ TBD
 
 # Installation
 
-* Download [Google's GVR SDK](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.3) and import it to your Unity project.
+* Download [Google's GVR SDK (v1.0.3)](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.3) and import it to your Unity project.
 
 
 * Build and export
