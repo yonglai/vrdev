@@ -11,7 +11,7 @@ Project 1 covers the foundations of VR development such as optics, displays, tra
 ## Project 2 - Apartment
 Project 2 covers game objects, transforms, materials and textures, lights, animations and cameras. 
 
-![alt tag](https://github.com/murielg/vrdev/blob/master/Apartment/Screenshot/IMG_5459.PNG?raw=true)
+![alt tag](https://github.com/murielg/vrdev/blob/master/Apartment/Screenshot/screenshot1.png?raw=true)
 
 ## Projects 3-5
 TBD
