@@ -19,7 +19,7 @@ TBD
 ## Project 4 - Puzzle
 TBD
 
-## Project 5 - VR Ehibit
+## Project 5 - VR Exhibit
 TBD
 
 # Installation
